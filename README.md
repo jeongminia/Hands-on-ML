@@ -19,7 +19,7 @@
 ##### 7. 랜덤포레스트
 - [velog]() | [code](https://github.com/jeongmin1016/Hands-on-ML/blob/main/code/_chap7_Random_Forest.ipynb)
 ##### 8. 차원축소
-- [velog]() | [code](https://github.com/jeongmin1016/Hands-on-ML/blob/main/code/chap8_Demension_Reduction.ipynb)
+- [velog]() | [code](https://github.com/jeongmin1016/Hands-on-ML/blob/main/code/chap8_Dimension_Reduction.ipynb)
 ##### 9. 군집
 - [velog]() | [code]()
 
