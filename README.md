@@ -16,6 +16,14 @@
 - [velog]() | [code](https://github.com/jeongmin1016/Hands-on-ML/blob/main/code/chap5_SVM.ipynb)
 ##### 6. 결정트리
 - [velog]() | [code](https://github.com/jeongmin1016/Hands-on-ML/blob/main/code/chap6_Decision_Tree.ipynb)
+##### 7. 랜덤포레스트
+- [velog]() | [code]()
+##### 8. 차원축소
+- [velog]() | [code]()
+##### 9. 군집
+- [velog]() | [code]()
+
+
 
 -----------------------
 ### 참고
