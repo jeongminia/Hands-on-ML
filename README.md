@@ -22,7 +22,8 @@
 - [velog]() | [code](https://github.com/jeongmin1016/Hands-on-ML/blob/main/code/chap8_Dimension_Reduction.ipynb)
 ##### 9. 군집
 - [velog]() | [code]()
-
+##### 10. 인공신경망
+- [velog]() | [code]()
 
 
 -----------------------
